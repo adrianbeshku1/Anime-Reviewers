@@ -1,0 +1,204 @@
+
+/* This is the title for each page */
+
+#topHeading{
+    background-color: #323232;
+    color: #ffffff;
+    font-size: 3em;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 2.25em;
+    border-radius: 1em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .25em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: grey;
+}
+table.streamTable{
+    float: right;
+    background-color: white;
+    margin-right: 10%;
+    border-radius: 1em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .25em;
+}
+#animeLogo{
+    height: 225px;
+    width: 400px;
+    float: left;
+    margin-left: 10%;
+    border-radius: 1em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .25em;
+}
+#streamingService{
+    width: 200px;
+    height: 102px;
+}
+
+/* This is the tabs for each page */
+nav { 
+    text-align: center;
+    background-color:darkred;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+nav a { 
+    text-decoration: none; 
+}
+
+nav a:visited { 
+    color: #656565; 
+}
+nav a:link { 
+    color: #ffffff; 
+}
+nav a:hover { 
+    color: #A52A2A; 
+}
+
+#tabs{
+    text-align: center;
+    font-size: 2.25em;
+    background-color: black;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/* This is home body */
+
+p.aboutAnime{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#homePageLogo{
+    height: 350px;
+    width: 600px;
+    float: left;
+    border-style: solid;
+    border-width: .25em;
+    border-color: rgb(255, 255, 255);
+}
+#aboutHeading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2.5em;
+    background-color: rgb(192, 192, 192);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: .25em;
+    padding-bottom: .25em;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-style: solid;
+    border-width: .15em;
+    border-color: rgb(255, 255, 255);
+    text-indent: 250px;
+    color: #323232;
+}
+
+#aboutBody{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(192, 192, 192);
+    color: #323232;
+}
+#homePageLogo2{
+    height: 350px;
+    width: 600px;
+    float: right;
+    border-style: solid;
+    border-width: .25em;
+    border-color: rgb(255, 255, 255);
+}
+#whyList{
+    margin-left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(192, 192, 192);
+    color: rgb(82, 81, 81);
+    padding: .4em;
+}
+#listHeading{
+    font-size: 1.6em;
+    color: #323232;
+}
+
+/* This is series and movie review body */
+
+#reviewCovers{
+    height: 300px;
+    width: 200px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .25em;
+    margin-left: 35%;
+    float: left;
+}
+#reviewBody{
+    float: right;
+    margin-right: 30%;
+    margin-left: 10%;
+    background-color: lightgray;
+    padding-top: .1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .25em;
+}
+/* This is community review body */
+#postReview{
+    font-size: 50px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: .15em;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+#label{
+    font-size: 30px;
+    background-color: lightgray;
+    padding: .5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .15em;
+}
+#textbox{
+    font-size: 30px;
+    background-color: lightgray;
+    padding: .5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .15em;
+}
+table.formTable{
+    margin-left: 7%;
+    padding-top: 3em;
+}
+#textboxReview{
+    width: 90em;
+    background-color: lightgray;
+    padding: .5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .15em;
+}
+#label2{
+    font-size: 20px;
+    background-color: lightgray;
+    padding: .5em;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: .15em;
+}
